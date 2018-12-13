@@ -1,2 +1,1 @@
-My App
-This is my App
+This App helps a user to identify loophools in his/her code.
